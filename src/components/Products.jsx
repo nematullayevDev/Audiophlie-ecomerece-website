@@ -23,14 +23,14 @@ function Herobottom() {
             alt=""
           />
           <p className="text-bold font-[700] text-black">SPEAKERS</p>
-          <Link to="/headphones" className="text-sm font-bold">
+          <Link to="/speakers" className="text-sm font-bold">
             SHOP <span className="text-[#D87D4A] text-lg">></span>
           </Link>
         </li>
         <li className="w-[360px] h-[204px] bg-[#F1F1F1] flex items-center justify-center flex-col rounded-lg">
           <img className="mt-[-80px] mb-[56px]" src="Group 5.png" alt="" />
           <p className="text-bold font-[700] text-black">EARPHONES</p>
-          <Link to="/headphones" className="text-sm font-bold">
+          <Link to="/earphones" className="text-sm font-bold">
             SHOP <span className="text-[#D87D4A] text-lg">></span>
           </Link>
         </li>

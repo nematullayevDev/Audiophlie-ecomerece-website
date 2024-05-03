@@ -29,7 +29,7 @@ function App() {
           element: <Earphones />,
         },
         {
-          path: "detail/:name",
+          path: "/detail",
           element: <Detail />,
         },
       ],

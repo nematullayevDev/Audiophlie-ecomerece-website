@@ -54,7 +54,7 @@ function Headphones() {
             </p>
 
             <Link
-              to="/headphones"
+              to="/detail#name"
               className="bg-[#D87D4A] py-[15px] px-[30px] text-white hover:bg-[#FBAF85] transition duration-100 font-bold"
             >
               SEE PRODUCT
