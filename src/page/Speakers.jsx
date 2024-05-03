@@ -42,7 +42,7 @@ function Speakers() {
               N E W P R O D U C T
             </h4>
             <h2 className="w-[396px] text-[56px] font-bold leading-[56px] mb-[24px]">
-              {speaker?.name}
+              {setSpeaker?.name}
             </h2>
             <p className="w-[445px] text-[15px] font-medium opacity-50 mb-[40px]">
               Upgrade your sound system with the all new ZX9 active speaker.
@@ -80,7 +80,7 @@ function Speakers() {
               </div>
 
               <div className="bg-[#F1F1F1] w-[540px] h-[560px] flex items-center justify-center ml-[125px] mb-[160px]">
-                <img src="image-removebg-preview(41) (1).png" alt="" />
+                <img src="image-removebg-preview(49).png" alt="" />
               </div>
             </div>
           </div>
